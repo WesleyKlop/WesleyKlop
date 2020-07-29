@@ -17,10 +17,11 @@ My own website can be found at [wesley.io]
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dracula" alt="Wesley's Github stats" />
 
-- I use Github actions for... almost everything!
-- Big fan of coding standards and automating them (see above)
-- :heart: learning new things
-- Currently a software engineer at [InThere]
+:octocat: I use Github actions for... almost everything!
+:lipstick: Big fan of coding standards and automating them (see above)
+:heart: learning new things
+:necktie: Currently a software engineer at [InThere]
+:spaghetti: The italian kitchen is my favorite, but I don't like spaghetti in code form
 
 [hogeschool leiden]: https://hsleiden.nl
 [laravel]: https://laravel.com
