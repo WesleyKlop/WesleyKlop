@@ -9,6 +9,7 @@ I also have a passion for working with and managing systems, and for the past fe
 
 I'm working on becoming a good Full Stack / DevOps engineer that helps make the world a better place.
 
+---
 
 ### Stats
 
