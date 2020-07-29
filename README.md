@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there :wave:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dracula" alt="Stats" />
 
@@ -13,11 +13,17 @@ My own website can be found at [wesley.io]
 
 ---
 
-### Stats
+### Stats 'n stuff
 
-![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dracula" alt="Wesley's Github stats" />
+
+- I use Github actions for... almost everything!
+- Big fan of coding standards and automating them (see above)
+- :heart: learning new things
+- Currently a software engineer at [InThere]
 
 [hogeschool leiden]: https://hsleiden.nl
 [laravel]: https://laravel.com
 [vue]: https://vuejs.org
 [wesley.io]: https://wesley.io
+[inthere]: https://github.com/InThere
