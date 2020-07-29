@@ -1,7 +1,17 @@
 ### Hey there 👋
 
--   🔭 I’m currently working on an easy to use [online voting system](https://github.com/WesleyKlop/vote-system).
--   🌱 I’m currently pursuing a BSc Computer Science in Leiden 🇳🇱.
--   💬 Ask me about Javascript, PHP, Server stuff, or almost anything really.
--   📫 How to reach me: [@w3ssl3y](https://twitter.com/w3ssl3y), [/in/WesleyKlop](https://linkedin.com/in/WesleyKlop)
--   ⚡ Fun fact: I really really like puns!
+I am Wesley Klop, a 22-year-old student living in the Netherlands who is currently pursuing a BsC in Computer Science at Hogeschool Leiden.
+At the moment I'm mostly working on [Laravel] projects, in combination with [Vue].
+
+I also have a passion for working with and managing systems, and for the past few years I've been maintaining my own server running Ubuntu.
+
+I'm working on becoming a good Full Stack / DevOps engineer that helps make the world a better place.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dracula" alt="Stats" />
+
+#### Stats
+
+![Wesley's github stats](https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dracula)
+
+[laravel]: https://laravel.com
+[vue]: https://vuejs.org
