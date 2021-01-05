@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dracula" alt="Stats" />
 
-I am Wesley Klop, a 22-year-old student living in the Netherlands who is currently pursuing a BsC in Computer Science at [Hogeschool Leiden].
+I am Wesley Klop, a 23-year-old student living in the Netherlands who is currently pursuing a BsC in Computer Science at [Hogeschool Leiden].
 At the moment I'm mostly working on [Laravel] projects, in combination with [Vue].
 
 I also have a passion for working with and managing systems, and for the past few years I've been maintaining my own server running Ubuntu, hosting applications with Docker.
@@ -21,7 +21,7 @@ My own website can be found at [wesley.io]
 :lipstick: Big fan of coding standards and automating them (see above)  
 :heart: learning new things  
 :necktie: Currently a software engineer at [InThere]  
-:spaghetti: The italian kitchen is my favorite, but I don't like spaghetti in code form
+:spaghetti: The italian kitchen is my favorite, but I don't like spaghetti code
 
 [hogeschool leiden]: https://hsleiden.nl
 [laravel]: https://laravel.com
