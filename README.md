@@ -1,6 +1,6 @@
 ## Hey there :wave:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dark"alt="Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dark" alt="Stats" />
 
 I am Wesley Klop, a 24-year-old Q'er at [Q42] where I'm working on the Philips Hue Cloud.
 
