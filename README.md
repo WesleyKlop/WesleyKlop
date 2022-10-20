@@ -1,3 +1,9 @@
+<style>
+    div {
+        clear: both;
+    }
+</style>
+
 ## Hey there :wave:
 
 <div>
@@ -11,7 +17,7 @@ My passion is DevOops and automation, which I'm channeling by maintaining my own
 
 ---
 
-<div style="clear:both;">
+<div>
     
 ### Stats and things
 
