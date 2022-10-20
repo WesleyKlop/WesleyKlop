@@ -1,13 +1,18 @@
 ## Hey there :wave:
 
-<div style="margin-bottom: 50px">
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dark" alt="Stats" />
 
 I am Wesley Klop, a 24-year-old Q'er at [Q42] where I'm working on the Philips Hue Cloud.
 
 My passion is DevOops and automation, which I'm channeling by maintaining my own "homelab" and more recently a cloudlab! Of course publicly with all IaC [here](github.com/WesleyKlop/infrastructure)
 </div>
+<br />
+<br />
+<br />
+<br />
 <!--My own website can be found at [wesley.io] -->
+
 ---
 
 <div>
