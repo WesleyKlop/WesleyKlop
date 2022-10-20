@@ -15,10 +15,10 @@ My passion is DevOops and automation, which I'm channeling by maintaining my own
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dark" alt="Wesley's Github stats" />
 
 :octocat: Adds Github actions to every project  
-:lipstick: Big fan of coding standards and automating _all_ the things
-:heart: Learning new things
-:necktie: Currently a software engineer at [Q42]
-:spaghetti: Eats all the pasta
+:lipstick: Big fan of coding standards and automating _all_ the things  
+:heart: Learning new things  
+:necktie: Currently a software engineer at [Q42]  
+:spaghetti: Eats all the pasta  
 
 [lab]: https://github.com/wesleyklop/infrastructure
 [hogeschool leiden]: https://hsleiden.nl
