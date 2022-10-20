@@ -1,7 +1,7 @@
 ## Hey there :wave:
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=dark" alt="Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyKlop&theme=transparent" alt="Stats" />
 
 I am Wesley Klop, a 24-year-old Q'er at [Q42] where I'm working on the Philips Hue Cloud.
 
@@ -20,7 +20,7 @@ My passion is DevOops and automation, which I'm channeling by maintaining my own
     
 ### Stats and things
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=dark" alt="Wesley's Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WesleyKlop&show_icons=true&count_private=true&theme=transparent" alt="Wesley's Github stats" />
 
 :octocat: Adds Github actions to every project  
 :lipstick: Big fan of coding standards and automating _all_ the things  
