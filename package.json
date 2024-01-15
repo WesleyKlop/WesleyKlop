@@ -4,7 +4,7 @@
     "license": "MIT",
     "private": true,
     "devDependencies": {
-        "prettier": "^3.2.0"
+        "prettier": "^3.2.2"
     },
     "scripts": {
         "prettier": "prettier '.'",
